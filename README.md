@@ -23,7 +23,7 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 
 ---
 
-## Featured Project: Hospital No-Show Prediction (2025)
+## Featured Project: Hospital No-Show Prediction (2025) ⭐️
 
 > **Goal**: Predict whether patients will show up for their hospital appointments, minimizing operational costs.
 
