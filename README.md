@@ -36,7 +36,7 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 - Achieved ~94% recall with tuned thresholding  
 - Fully modular — built to integrate with Flask UI and Airflow
 
-**Repo (Coming Soon)**: `PredictML-Production`
+**Repo (In Progress)**: [PredictML-Production](https://github.com/ronit22203/PredictML-Production)
 
 ---
 
