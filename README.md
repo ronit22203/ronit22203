@@ -4,6 +4,11 @@
 
 I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai](https://pragyaa.ai) — solving real-world problems using data-driven insights and predictive modeling. My work blends classical machine learning, solid engineering practices, and scalable deployment. I'm also passionate about deep learning and continuously improving my craft.
 
+## Other GitHub Contributions
+
+> I also contribute under a separate GitHub profile for work and research:
+
+- [@workhandle](https://github.com/roni2231) *(personal/professional commits)* 
 ---
 
 ## Key Skills & Tech Stack
