@@ -56,7 +56,7 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 - [Portfolio Website](https://ronit-dev-portf.vercel.app)  
 - [LinkedIn](https://www.linkedin.com/in/ronitsaxena)  
 - Gurgaon, India  
-- On a mission to build AI tools with real-world impact
+- On a mission to build AI tools for real-world impact with strong foundation and cutting edge technologies
 
 ---
 
