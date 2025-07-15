@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ronit Saxena
+#Hi, I'm Ronit Saxena
 
 **AI/ML Engineer | Data Scientist @ [Pragyaa.ai](https://pragyaa.ai) | IIIT-B PGDip | Deep Learning | MLOps | Full-stack ML**
 
@@ -6,7 +6,7 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 
 ---
 
-## 🧠 Key Skills & Tech Stack
+## Key Skills & Tech Stack
 
 - **ML**: Classification, Regression, Clustering, SHAP, Feature Engineering, Model Explainability  
 - **DL**: PyTorch, TensorFlow, Keras *(Learning hands-on)*  
@@ -18,12 +18,12 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 
 ---
 
-## 🚀 Featured Project: Hospital No-Show Prediction (2025)
+## Featured Project: Hospital No-Show Prediction (2025)
 
 > **Goal**: Predict whether patients will show up for their hospital appointments, minimizing operational costs.
 
-🔧 **Tech**: scikit-learn, XGBoost, SHAP, Pandas, Docker, Airflow-ready  
-📈 **Highlights**:
+**Tech**: scikit-learn, XGBoost, SHAP, Pandas, Docker, Airflow-ready  
+**Highlights**:
 - Cleaned and engineered messy real-world temporal + categorical data  
 - Trained models: Logistic Regression, Random Forest, XGBoost  
 - Prioritized **high recall** to catch no-shows  
@@ -31,11 +31,11 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 - Achieved ~94% recall with tuned thresholding  
 - Fully modular — built to integrate with Flask UI and Airflow
 
-📦 **Repo (Coming Soon)**: `PredictML-Production`
+**Repo (Coming Soon)**: `PredictML-Production`
 
 ---
 
-## 📘 Notebooks & Experiments
+## Notebooks & Experiments
 
 | Project | Description |
 |--------|-------------|
@@ -46,16 +46,16 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 
 ---
 
-## 📍 Connect With Me
+## Connect With Me
 
-- 🔗 [Portfolio Website](https://ronit-dev-port.vercel.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/ronit22203)  
-- 📍 Gurgaon, India  
-- 🧠 On a mission to build AI tools with real-world impact
+- [Portfolio Website](https://ronit-dev-port.vercel.app)  
+- [LinkedIn](https://www.linkedin.com/in/ronit22203)  
+- Gurgaon, India  
+- On a mission to build AI tools with real-world impact
 
 ---
 
-## 🛠️ Currently Working On
+## Currently Working On
 
 - `PredictML-Production`: Healthcare ML pipeline (Airflow-ready, modular)  
 - **Certifications**:
@@ -63,7 +63,7 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
   - AWS ML Specialty *(Planned)*
   - TensorFlow Developer *(Planned)*
 - **FinSona**: AI-powered financial planning platform
-  - ✨ Voice Bot (OpenAI + Realtime FastAPI) → **done**
-  - 🎯 Memory layer + ML integration → **in progress**
+  - Voice Bot (OpenAI + Realtime FastAPI) → **done**
+  - Memory layer + ML integration → **in progress**
 
 ---
