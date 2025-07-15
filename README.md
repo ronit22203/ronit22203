@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Ronit Saxena
 
-<!--
-**ronit22203/ronit22203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer | Data Scientist @ [Pragyaa.ai](https://pragyaa.ai) | IIIT-B PGDip | Deep Learning | MLOps | Full-stack ML**
 
-Here are some ideas to get you started:
+I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai](https://pragyaa.ai) — solving real-world problems using data-driven insights and predictive modeling. My work blends classical machine learning, solid engineering practices, and scalable deployment. I'm also passionate about deep learning and continuously improving my craft.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Key Skills & Tech Stack
+
+- **ML**: Classification, Regression, Clustering, SHAP, Feature Engineering, Model Explainability  
+- **DL**: PyTorch, TensorFlow, Keras *(Learning hands-on)*  
+- **MLOps**: Docker, FastAPI, MLflow, Azure AutoML  
+- **Data**: Pandas, NumPy, SQL, S3, Matplotlib, Seaborn  
+- **Software**: Python, Git, Bash, REST APIs  
+- **Cloud**: Azure, GCP, AWS *(in progress)*  
+- **Infra**: GitHub Actions, Docker
+
+---
+
+## 🚀 Featured Project: Hospital No-Show Prediction (2025)
+
+> **Goal**: Predict whether patients will show up for their hospital appointments, minimizing operational costs.
+
+🔧 **Tech**: scikit-learn, XGBoost, SHAP, Pandas, Docker, Airflow-ready  
+📈 **Highlights**:
+- Cleaned and engineered messy real-world temporal + categorical data  
+- Trained models: Logistic Regression, Random Forest, XGBoost  
+- Prioritized **high recall** to catch no-shows  
+- Used **SHAP** for model explainability  
+- Achieved ~94% recall with tuned thresholding  
+- Fully modular — built to integrate with Flask UI and Airflow
+
+📦 **Repo (Coming Soon)**: `PredictML-Production`
+
+---
+
+## 📘 Notebooks & Experiments
+
+| Project | Description |
+|--------|-------------|
+| [Multilinear Regression](https://github.com/ronit22203/MultilinearRegression) | A basic regression walkthrough |
+| [Data Cleaning & Visualization](https://github.com/ronit22203/data-cleaning-and-visualisation) | Preprocessing + EDA utilities |
+| [EDA: Bank Marketing](https://github.com/ronit22203/EDABankMarketing) | Exploratory analysis of campaign data |
+| [Lead Scoring Case Study](https://github.com/ronit22203/LeadsScoringCaseStudy) | Lead qualification using ML |
+
+---
+
+## 📍 Connect With Me
+
+- 🔗 [Portfolio Website](https://ronit-dev-port.vercel.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ronit22203)  
+- 📍 Gurgaon, India  
+- 🧠 On a mission to build AI tools with real-world impact
+
+---
+
+## 🛠️ Currently Working On
+
+- `PredictML-Production`: Healthcare ML pipeline (Airflow-ready, modular)  
+- **Certifications**:
+  - Microsoft DP-100 *(In progress)*
+  - AWS ML Specialty *(Planned)*
+  - TensorFlow Developer *(Planned)*
+- **FinSona**: AI-powered financial planning platform
+  - ✨ Voice Bot (OpenAI + Realtime FastAPI) → **done**
+  - 🎯 Memory layer + ML integration → **in progress**
+
+---
