@@ -62,7 +62,7 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 
 ## Currently Working On
 
-- `PredictML-Production`: Healthcare ML pipeline (Airflow-ready, modular)  
+- `PredictML-Production`: Healthcare ML pipeline  
 - **Certifications**:
   - Microsoft DP-100 *(In progress)*
   - AWS ML Specialty *(Planned)*
