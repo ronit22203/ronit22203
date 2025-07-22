@@ -2,7 +2,6 @@
 
 **AI/ML Engineer | Data Scientist @ [Pragyaa.ai](https://pragyaa.ai) | IIIT-B PGDip | Deep Learning | MLOps | Full-stack ML**  
 ![Location](https://img.shields.io/badge/Gurgaon-India-blue) 
-![Profile Views](https://komarev.com/ghpvc/?username=ronit22203&color=green)
 
 I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai](https://pragyaa.ai) — solving real-world problems using data-driven insights and predictive modeling. My work blends classical machine learning, solid engineering practices, and scalable deployment. I'm also passionate about deep learning and continuously improving my craft.
 
