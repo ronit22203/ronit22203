@@ -26,6 +26,7 @@ I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00) 
 ![Keras](https://img.shields.io/badge/Keras-D00000) 
+![Neural Netoworks](https://img.shields.io/badge/Neural-Networks-00A878) 
 
 ### MLOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED) 
