@@ -105,7 +105,7 @@ On a mission to build AI tools for real-world impact with strong foundation and 
 
 - `PredictML-Production`: ![Healthcare](https://img.shields.io/badge/Healthcare-important) ![ML Pipeline](https://img.shields.io/badge/ML_Pipeline-informational)  
 - **Certifications**:
-  - ![Microsoft DP-100](https://img.shields.io/badge/Microsoft_DP_100-In_Progress-orange)
+  - ![Microsoft DP-100](https://img.shields.io/badge/Microsoft_DP_100-Done-green)
   - ![AWS MLS](https://img.shields.io/badge/AWS_ML_Specialty-Planned-lightgrey)
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-Planned-lightgrey)
 - **FinSona**: ![Finance AI](https://img.shields.io/badge/Finance_AI-critical) platform
