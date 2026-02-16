@@ -22,13 +22,13 @@
 ### Current  
 Independent ML/GenAI Engineer (Contract) | Ex: **pragyaa.ai** (10+ healthcare deployments, 3,000+ daily appointments)
 
-## Work Profile
+## About me
 
 > Production code, research, and client work:
 
 <div align="center">
 
-[![GitHub roni2231](https://img.shields.io/badge/GitHub-roni2231-181717?style=for-the-badge&logo=github)](https://github.com/roni2231)
+[![Website](https://img.shields.io/badge/GitHub-roni2231-181717?style=for-the-badge&logo=github)](https://www.ronitsaxena.in)
 
 </div>
 
