@@ -28,7 +28,7 @@ Independent ML/GenAI Engineer (Contract) | Ex: **pragyaa.ai** (10+ healthcare de
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/GitHub-roni2231-181717?style=for-the-badge&logo=github)](https://www.ronitsaxena.in)
+[![Website](https://img.shields.io/badge/Website-ronitsaxena.in-181717?style=for-the-badge&logo=internet-explorer)](https://www.ronitsaxena.in)
 
 </div>
 
