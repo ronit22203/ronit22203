@@ -1,113 +1,94 @@
-# Hi, I'm Ronit Saxena
+# Ronit Saxena
+### AI/ML Engineer | Production ML Systems | Healthcare + Regulated Data
 
-**AI/ML Engineer | Data Scientist @ [Pragyaa.ai](https://pragyaa.ai) | IIIT-B PGDip | Deep Learning | MLOps | Full-stack ML**  
-![Location](https://img.shields.io/badge/Gurgaon-India-blue) 
+<div align="center">
 
-I'm currently building intelligent, production-grade ML pipelines at [Pragyaa.ai](https://pragyaa.ai) — solving real-world problems using data-driven insights and predictive modeling. My work blends classical machine learning, solid engineering practices, and scalable deployment. I'm also passionate about deep learning and continuously improving my craft.
+[![Gurgaon, India](https://img.shields.io/badge/-Gurgaon%2C%20India-0066FF?style=for-the-badge)](https://maps.google.com/?q=Gurgaon)
+[![IIIT-B PGDip](https://img.shields.io/badge/IIIT--B-Deep%20Learning-8A2BE2?style=for-the-badge)](https://www.iiitb.ac.in/)
+[![Azure DP-100](https://img.shields.io/badge/Azure-Data%20Scientist-0078D4?style=for-the-badge&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
 
-## Other GitHub Contributions
+</div>
 
-> I also contribute under a separate GitHub profile for work and research:
+## Core Principle
 
-- [![Work Profile](https://img.shields.io/badge/GitHub-Work_Profile-181717)](https://github.com/roni2231) *(personal/professional commits)* 
 
----
+**Production first ML systems** engineered for real world constraints.
 
-## Key Skills & Tech Stack
+### Shipped  
+- complete prediction pipelines end to end (healthcare no show, delay, cost forecasting)  
+- Hybrid Graph Vector RAG (Neo4j + Qdrant) with automated PII/PHI redaction  
+- Deterministic vision intelligence (image/video reasoning without LLMs)  
 
-### Machine Learning
-![Classification](https://img.shields.io/badge/Classification-informational) 
-![Regression](https://img.shields.io/badge/Regression-informational) 
-![Clustering](https://img.shields.io/badge/Clustering-informational) 
-![SHAP](https://img.shields.io/badge/SHAP-informational) 
-![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-informational)
+### Current  
+Independent ML/GenAI Engineer (Contract) | Ex: **pragyaa.ai** (10+ healthcare deployments, 3,000+ daily appointments)
 
-### Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00) 
-![Keras](https://img.shields.io/badge/Keras-D00000) 
-![Neural Netoworks](https://img.shields.io/badge/Neural-Networks-00A878) 
+## Work Profile
 
-### MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688) 
-![MLflow](https://img.shields.io/badge/MLflow-0194E2) 
-![Azure AutoML](https://img.shields.io/badge/Azure_AutoML-0078D4)
+> Production code, research, and client work:
 
-### Data Tools
-![Pandas](https://img.shields.io/badge/Pandas-150458) 
-![NumPy](https://img.shields.io/badge/NumPy-013243) 
-![SQL](https://img.shields.io/badge/SQL-4479A1) 
-![S3](https://img.shields.io/badge/S3-569A31) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C) 
-![Seaborn](https://img.shields.io/badge/Seaborn-5B7CA5)
+<div align="center">
 
-### Software & Infrastructure
-![Python](https://img.shields.io/badge/Python-3776AB) 
-![Git](https://img.shields.io/badge/Git-F05032) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25) 
-![REST APIs](https://img.shields.io/badge/REST_API-FF6C37) 
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF)
+[![GitHub roni2231](https://img.shields.io/badge/GitHub-roni2231-181717?style=for-the-badge&logo=github)](https://github.com/roni2231)
 
-### Cloud Platforms
-![Azure](https://img.shields.io/badge/Azure-0078D4) 
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4) 
-![AWS](https://img.shields.io/badge/AWS-232F3E)
+</div>
 
----
+## Performance
 
-## Featured Project: Hospital No-Show Prediction (2025) ⭐️
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow) 
-![ML Pipeline](https://img.shields.io/badge/ML_Pipeline-important)
+| Achievement | Metric |
+|:---|---:|
+| **Hybrid RAG** | 85% recall@5, 74.9% NDCG@5 |
+| **Prediction Engine** | 100% accuracy, 73% delay recall, ±12.6 min error |
+| **Portfolio** | 97 Lighthouse, 95 PageSpeed |
+| **Privacy** | 100% automated PII/PHI detection |
+| **Image Awareness** | 100% Determinism, Modular Stages, ImageRecord, Pre Language Model Intelligence|
+## Featured Work
 
-> **Goal**: Predict whether patients will show up for their hospital appointments, minimizing operational costs.
+### Privacy-First Medical Ingestion Pipeline  
+**Design Doc:** [ronitsaxena.in](https://www.ronitsaxena.in/media/statics/ingestion_layer_casestudy.pdf)
 
-**Tech**: 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E) 
-![XGBoost](https://img.shields.io/badge/XGBoost-3776AB) 
-![SHAP](https://img.shields.io/badge/SHAP-informational) 
-![Pandas](https://img.shields.io/badge/Pandas-150458) 
-![Docker](https://img.shields.io/badge/Docker-2496ED) 
-![Airflow](https://img.shields.io/badge/Airflow-ready-007A88)
+HIPAA compliant knowledge base: **Neo4j** clinical graphs + **Qdrant** semantic search. Transforms unstructured medical PDFs into production intelligence while maintaining data sovereignty.
 
-**Highlights**:
-- Cleaned and engineered messy real-world temporal + categorical data  
-- Trained models: Logistic Regression, Random Forest, XGBoost  
-- Prioritized **high recall** to catch no-shows  
-- Used **SHAP** for model explainability  
-- Achieved ~94% recall with tuned thresholding  
-- Fully modular — built to integrate with Flask UI and Airflow
+**Engineering highlights:**
+- Vision-aware extraction (Surya OCR for complex layouts)
+- Automated privacy layer (PII/PHI redaction)
+- Optimized chunking (512 token budget)
+- Dual storage (semantic + relationship reasoning)
 
-**Repo (In Progress)**: [PredictML-Production](https://github.com/ronit22203/PredictML-Production)
+**Status:** Fully containerized, regulated-environment ready.
 
----
+## Tech Stack
 
-## Notebooks & Experiments
+| Category | Tools |
+|:---|---|
+| **ML/AI** | Python, PyTorch, Transformers, XGBoost, HuggingFace |
+| **MLOps** | Docker, Azure ML, MLflow, FastAPI, GitHub Actions |
+| **Data** | Pandas, NumPy, SQL, Neo4j, Qdrant |
+| **Infrastructure** | Linux, REST APIs, Azure, AWS, GCP |
+| **Compliance** | Microsoft Presidio, audit logging |
 
-| Project | Badges | Description |
-|---------|--------|-------------|
-| [Multilinear Regression](https://github.com/ronit22203/MultilinearRegression) | ![Regression](https://img.shields.io/badge/Regression-blue) ![Tutorial](https://img.shields.io/badge/Tutorial-9cf) | A basic regression walkthrough |
-| [Data Cleaning & Visualization](https://github.com/ronit22203/data-cleaning-and-visualisation) | ![EDA](https://img.shields.io/badge/EDA-important) ![Preprocessing](https://img.shields.io/badge/Preprocessing-yellow) | Preprocessing + EDA utilities |
-| [EDA: Bank Marketing](https://github.com/ronit22203/EDABankMarketing) | ![Banking](https://img.shields.io/badge/Banking-informational) ![Analysis](https://img.shields.io/badge/Analysis-blueviolet) | Exploratory analysis of campaign data |
-| [Lead Scoring Case Study](https://github.com/ronit22203/LeadsScoringCaseStudy) | ![Lead Scoring](https://img.shields.io/badge/Lead_Scoring-critical) ![ML](https://img.shields.io/badge/Machine_Learning-ff69b4) | Lead qualification using ML |
+
+## Featured Projects
+
+| Project | Tech | Highlight |
+|:---|---|---|
+| [PredictML-Production](https://github.com/ronit22203/PredictML-Production) | XGBoost, SHAP, FastAPI | Two-stage hospital no-show/delay prediction |
+| [Medical-RAG-Ingestion](https://github.com/ronit22203/Medical-RAG-Ingestion) | Neo4j, Qdrant, Presidio | Hybrid Graph-Vector RAG with PII redaction |
+| [Image-Reasoning-Pipeline](https://github.com/ronit22203/Image-Reasoning-Pipeline) | CLIP, Policy Engine | Deterministic pre-LLM vision intelligence |
+
+## Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/ronitsaxena.in-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ronitsaxena.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronitsaxena)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ronit22203)
+
+</div>
 
 ---
 
-## Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://ronit-dev-portf.vercel.app) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/ronitsaxena)  
-![Based In](https://img.shields.io/badge/Based_In-Gurgaon,%20India-blue)  
-On a mission to build AI tools for real-world impact with strong foundation and cutting edge technologies
+<div align="center">
 
----
+**Building production systems for healthcare at scale**
 
-## Currently Working On
-
-- `PredictML-Production`: ![Healthcare](https://img.shields.io/badge/Healthcare-important) ![ML Pipeline](https://img.shields.io/badge/ML_Pipeline-informational)  
-- **Certifications**:
-  - ![Microsoft DP-100](https://img.shields.io/badge/Microsoft_DP_100-Done-green)
-  - ![AWS MLS](https://img.shields.io/badge/AWS_ML_Specialty-Planned-lightgrey)
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow_Developer-Planned-lightgrey)
-- **FinSona**: ![Finance AI](https://img.shields.io/badge/Finance_AI-critical) platform
-  - Voice Bot (OpenAI + Realtime FastAPI) → ![Done](https://img.shields.io/badge/Done-brightgreen)
-  - Memory layer + ML integration → ![In Progress](https://img.shields.io/badge/In_Progress-yellow)
+</div>
