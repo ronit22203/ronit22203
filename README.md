@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![Gurgaon, India](https://img.shields.io/badge/-Gurgaon%2C%20India-0066FF?style=for-the-badge)](https://maps.google.com/?q=Gurgaon)
+[![Remote, India](https://img.shields.io/badge/-Gurgaon%2C%20India-0066FF?style=for-the-badge)](https://maps.google.com/?q=Gurgaon)
 [![IIIT-B PGDip](https://img.shields.io/badge/IIIT--B-Deep%20Learning-8A2BE2?style=for-the-badge)](https://www.iiitb.ac.in/)
 [![Azure DP-100](https://img.shields.io/badge/Azure-Data%20Scientist-0078D4?style=for-the-badge&logo=microsoftazure)](https://learn.microsoft.com/en-us/certifications/azure-data-scientist/)
 
