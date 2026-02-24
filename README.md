@@ -45,7 +45,7 @@ Independent ML/GenAI Engineer (Contract) | Ex: **pragyaa.ai** (10+ healthcare de
 ## Featured Work
 
 ### Clinical Agents — Config-Driven Clinical Research AI
-**Repo:** [clinical-agents](https://github.com/ronit22203/clinical-agents)
+**Repo:** [clinical-agents](https://github.com/ronit22203/clinical-graphrag-agents)
 
 Production platform for clinical research AI where agent behavior, tool selection, model parameters, and workflow routing are defined entirely in YAML — no source code changes required. Runs on two runtimes from one config: LangGraph ReAct (low latency) and Temporal Workflows (durable, auditable, human-in-the-loop).
 
