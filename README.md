@@ -37,7 +37,7 @@ Independent ML/GenAI Engineer (Contract) | Ex: **pragyaa.ai** (10+ healthcare de
 | Achievement | Metric |
 |:---|---:|
 | **Hybrid RAG** | 85% recall@5, 74.9% NDCG@5 |
-| **Prediction Engine** | 100% show accuracy 500 real world records, 73% delay recall, ±12.6 min error |
+| **Prediction Engine** | 100% show accuracy 500 real world records (retrospective), 73% delay recall, ±12.6 min error |
 | **Portfolio** | 97 Lighthouse, 95 PageSpeed |
 | **Privacy** | 100% automated PII/PHI detection |
 | **Image Awareness** | 100% Determinism, Modular Stages, ImageRecord, Pre Language Model Intelligence |
